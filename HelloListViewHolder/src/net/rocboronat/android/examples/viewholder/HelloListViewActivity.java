@@ -47,6 +47,9 @@ public class HelloListViewActivity extends ListActivity {
 		}
 		
 	    public View getView(int pos, View convertView, ViewGroup parent){
+	    	Chrono c = new Chrono();
+	    	c.start(1);
+	    	
 	        LayoutInflater mInflater = LayoutInflater.from(context);
             convertView = mInflater.inflate(R.layout.list_item, null);
             
@@ -64,6 +67,7 @@ public class HelloListViewActivity extends ListActivity {
             View preferit = (View) convertView.findViewById(R.id.preferit);
             preferit.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.softstarclear));
             
+            Log.i("Without ViewHolder: " + country, c.stop(1)+"ms");
 	    	return convertView;
 	    }
 	}

@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.app.ListActivity;
 import android.content.Context;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -47,7 +48,10 @@ public class HelloListViewHolderActivity extends ListActivity {
 		}
 		
 	    public View getView(int pos, View convertView, ViewGroup parent){
-	        ViewHolder holder = null;
+	    	Chrono c = new Chrono();
+	    	c.start(1);
+	    	
+	    	ViewHolder holder = null;
 	    	if (convertView == null || !(convertView.getTag() instanceof ViewHolder)) {
 		        LayoutInflater mInflater = LayoutInflater.from(context);
                 convertView = mInflater.inflate(R.layout.list_item, null);
@@ -70,7 +74,8 @@ public class HelloListViewHolderActivity extends ListActivity {
             holder.color.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.gradientgreen));
             holder.estat.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.stats_d));
             holder.preferit.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.softstarclear));
-            
+
+            Log.i("With uncached ViewHolder: " + country, c.stop(1)+"ms");
 	    	return convertView;
 	    }
 	    
