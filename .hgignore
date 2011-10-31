@@ -1,0 +1,6 @@
+syntax: regexp
+.metadata*
+HelloListViewHolder/bin*
+HelloListViewHolder/gen*
+HelloListViewHolder/.settings*      
+syntax: glob

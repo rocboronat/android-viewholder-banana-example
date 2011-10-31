@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <color name="green1">#00CC00</color> <!-- basic clar -->
+   <color name="green2">#008E00</color> <!-- basic fosc -->
+   
+   <color name="stroke">#616161</color>
+</resources>
