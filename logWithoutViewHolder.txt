@@ -1,0 +1,251 @@
+10-31 13:41:25.050: W/IInputConnectionWrapper(17023): showStatusIcon on inactive InputConnection
+10-31 13:41:29.450: I/Without ViewHolder: Afghanistan(17023): 93ms
+10-31 13:41:29.510: I/Without ViewHolder: Albania(17023): 36ms
+10-31 13:41:29.580: I/Without ViewHolder: Algeria(17023): 48ms
+10-31 13:41:29.610: I/Without ViewHolder: American Samoa(17023): 23ms
+10-31 13:41:29.650: I/Without ViewHolder: Andorra(17023): 15ms
+10-31 13:41:29.680: I/Without ViewHolder: Angola(17023): 26ms
+10-31 13:41:29.720: I/Without ViewHolder: Anguilla(17023): 40ms
+10-31 13:41:29.750: I/Without ViewHolder: Antarctica(17023): 37ms
+10-31 13:41:29.790: I/Without ViewHolder: Antigua and Barbuda(17023): 26ms
+10-31 13:41:29.810: I/Without ViewHolder: Argentina(17023): 26ms
+10-31 13:41:31.150: I/Without ViewHolder: Armenia(17023): 11ms
+10-31 13:41:31.250: I/Without ViewHolder: Aruba(17023): 14ms
+10-31 13:41:31.260: I/Without ViewHolder: Australia(17023): 8ms
+10-31 13:41:31.270: I/Without ViewHolder: Austria(17023): 8ms
+10-31 13:41:31.330: I/Without ViewHolder: Azerbaijan(17023): 14ms
+10-31 13:41:31.340: I/Without ViewHolder: Bahrain(17023): 6ms
+10-31 13:41:31.390: I/Without ViewHolder: Bangladesh(17023): 14ms
+10-31 13:41:31.410: I/Without ViewHolder: Barbados(17023): 14ms
+10-31 13:41:31.420: I/Without ViewHolder: Belarus(17023): 9ms
+10-31 13:41:31.530: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 84K, 57% free 2913K/6727K, external 517K/540K, paused 70ms
+10-31 13:41:31.570: I/Without ViewHolder: Belgium(17023): 20ms
+10-31 13:41:31.580: I/Without ViewHolder: Belize(17023): 9ms
+10-31 13:41:31.590: I/Without ViewHolder: Benin(17023): 8ms
+10-31 13:41:31.600: I/Without ViewHolder: Bermuda(17023): 6ms
+10-31 13:41:31.610: I/Without ViewHolder: Bhutan(17023): 13ms
+10-31 13:41:31.630: I/Without ViewHolder: Bolivia(17023): 9ms
+10-31 13:41:31.640: I/Without ViewHolder: Bosnia and Herzegovina(17023): 9ms
+10-31 13:41:31.720: I/Without ViewHolder: Botswana(17023): 16ms
+10-31 13:41:31.730: I/Without ViewHolder: Bouvet Island(17023): 6ms
+10-31 13:41:31.740: I/Without ViewHolder: Brazil(17023): 8ms
+10-31 13:41:31.750: I/Without ViewHolder: British Indian Ocean Territory(17023): 6ms
+10-31 13:41:31.760: I/Without ViewHolder: British Virgin Islands(17023): 8ms
+10-31 13:41:31.770: I/Without ViewHolder: Brunei(17023): 8ms
+10-31 13:41:31.850: I/Without ViewHolder: Bulgaria(17023): 14ms
+10-31 13:41:31.860: I/Without ViewHolder: Burkina Faso(17023): 6ms
+10-31 13:41:31.870: I/Without ViewHolder: Burundi(17023): 10ms
+10-31 13:41:31.880: I/Without ViewHolder: Cote d'Ivoire(17023): 9ms
+10-31 13:41:31.990: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 76K, 57% free 2916K/6727K, external 779K/799K, paused 69ms
+10-31 13:41:32.020: I/Without ViewHolder: Cambodia(17023): 24ms
+10-31 13:41:32.030: I/Without ViewHolder: Cameroon(17023): 7ms
+10-31 13:41:32.040: I/Without ViewHolder: Canada(17023): 8ms
+10-31 13:41:32.050: I/Without ViewHolder: Cape Verde(17023): 8ms
+10-31 13:41:32.070: I/Without ViewHolder: Cayman Islands(17023): 9ms
+10-31 13:41:32.070: I/Without ViewHolder: Central African Republic(17023): 6ms
+10-31 13:41:32.160: I/Without ViewHolder: Chad(17023): 18ms
+10-31 13:41:32.180: I/Without ViewHolder: Chile(17023): 13ms
+10-31 13:41:32.190: I/Without ViewHolder: China(17023): 10ms
+10-31 13:41:32.210: I/Without ViewHolder: Christmas Island(17023): 11ms
+10-31 13:41:32.220: I/Without ViewHolder: Cocos (Keeling) Islands(17023): 8ms
+10-31 13:41:32.300: I/Without ViewHolder: Colombia(17023): 18ms
+10-31 13:41:32.310: I/Without ViewHolder: Comoros(17023): 6ms
+10-31 13:41:32.320: I/Without ViewHolder: Congo(17023): 9ms
+10-31 13:41:32.330: I/Without ViewHolder: Cook Islands(17023): 7ms
+10-31 13:41:32.340: I/Without ViewHolder: Costa Rica(17023): 9ms
+10-31 13:41:32.460: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 16K, 56% free 2973K/6727K, external 920K/943K, paused 74ms
+10-31 13:41:32.490: I/Without ViewHolder: Croatia(17023): 18ms
+10-31 13:41:32.500: I/Without ViewHolder: Cuba(17023): 7ms
+10-31 13:41:32.510: I/Without ViewHolder: Cyprus(17023): 9ms
+10-31 13:41:32.520: I/Without ViewHolder: Czech Republic(17023): 10ms
+10-31 13:41:32.530: I/Without ViewHolder: Democratic Republic of the Congo(17023): 7ms
+10-31 13:41:32.540: I/Without ViewHolder: Denmark(17023): 10ms
+10-31 13:41:32.550: I/Without ViewHolder: Djibouti(17023): 6ms
+10-31 13:41:32.560: I/Without ViewHolder: Dominica(17023): 9ms
+10-31 13:41:32.570: I/Without ViewHolder: Dominican Republic(17023): 7ms
+10-31 13:41:32.590: I/Without ViewHolder: East Timor(17023): 8ms
+10-31 13:41:32.600: I/Without ViewHolder: Ecuador(17023): 7ms
+10-31 13:41:32.610: I/Without ViewHolder: Egypt(17023): 7ms
+10-31 13:41:32.620: I/Without ViewHolder: El Salvador(17023): 7ms
+10-31 13:41:32.630: I/Without ViewHolder: Equatorial Guinea(17023): 8ms
+10-31 13:41:32.640: I/Without ViewHolder: Eritrea(17023): 6ms
+10-31 13:41:32.660: I/Without ViewHolder: Estonia(17023): 12ms
+10-31 13:41:32.670: I/Without ViewHolder: Ethiopia(17023): 7ms
+10-31 13:41:32.750: I/Without ViewHolder: Faeroe Islands(17023): 14ms
+10-31 13:41:32.760: I/Without ViewHolder: Falkland Islands(17023): 6ms
+10-31 13:41:32.770: I/Without ViewHolder: Fiji(17023): 9ms
+10-31 13:41:32.780: I/Without ViewHolder: Finland(17023): 10ms
+10-31 13:41:32.790: I/Without ViewHolder: Former Yugoslav Republic of Macedonia(17023): 7ms
+10-31 13:41:32.800: I/Without ViewHolder: France(17023): 9ms
+10-31 13:41:32.810: I/Without ViewHolder: French Guiana(17023): 9ms
+10-31 13:41:32.820: I/Without ViewHolder: French Polynesia(17023): 7ms
+10-31 13:41:32.830: I/Without ViewHolder: French Southern Territories(17023): 8ms
+10-31 13:41:32.840: I/Without ViewHolder: Gabon(17023): 7ms
+10-31 13:41:32.860: I/Without ViewHolder: Georgia(17023): 6ms
+10-31 13:41:32.870: I/Without ViewHolder: Germany(17023): 7ms
+10-31 13:41:32.880: I/Without ViewHolder: Ghana(17023): 10ms
+10-31 13:41:32.890: I/Without ViewHolder: Gibraltar(17023): 7ms
+10-31 13:41:32.900: I/Without ViewHolder: Greece(17023): 8ms
+10-31 13:41:32.910: I/Without ViewHolder: Greenland(17023): 8ms
+10-31 13:41:33.030: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 30K, 55% free 3090K/6727K, external 1006K/1029K, paused 71ms
+10-31 13:41:33.080: I/Without ViewHolder: Grenada(17023): 19ms
+10-31 13:41:33.090: I/Without ViewHolder: Guadeloupe(17023): 6ms
+10-31 13:41:33.110: I/Without ViewHolder: Guam(17023): 9ms
+10-31 13:41:33.110: I/Without ViewHolder: Guatemala(17023): 6ms
+10-31 13:41:33.130: I/Without ViewHolder: Guinea(17023): 10ms
+10-31 13:41:33.140: I/Without ViewHolder: Guinea-Bissau(17023): 7ms
+10-31 13:41:33.150: I/Without ViewHolder: Guyana(17023): 9ms
+10-31 13:41:33.160: I/Without ViewHolder: Haiti(17023): 6ms
+10-31 13:41:33.170: I/Without ViewHolder: Heard Island and McDonald Islands(17023): 9ms
+10-31 13:41:33.180: I/Without ViewHolder: Honduras(17023): 6ms
+10-31 13:41:33.190: I/Without ViewHolder: Hong Kong(17023): 8ms
+10-31 13:41:33.200: I/Without ViewHolder: Hungary(17023): 8ms
+10-31 13:41:33.210: I/Without ViewHolder: Iceland(17023): 8ms
+10-31 13:41:33.230: I/Without ViewHolder: India(17023): 12ms
+10-31 13:41:33.230: I/Without ViewHolder: Indonesia(17023): 5ms
+10-31 13:41:33.250: I/Without ViewHolder: Iran(17023): 8ms
+10-31 13:41:33.340: I/Without ViewHolder: Iraq(17023): 15ms
+10-31 13:41:33.350: I/Without ViewHolder: Ireland(17023): 6ms
+10-31 13:41:33.370: I/Without ViewHolder: Israel(17023): 16ms
+10-31 13:41:33.380: I/Without ViewHolder: Italy(17023): 11ms
+10-31 13:41:33.390: I/Without ViewHolder: Jamaica(17023): 10ms
+10-31 13:41:33.400: I/Without ViewHolder: Japan(17023): 8ms
+10-31 13:41:33.410: I/Without ViewHolder: Jordan(17023): 12ms
+10-31 13:41:33.430: I/Without ViewHolder: Kazakhstan(17023): 9ms
+10-31 13:41:33.440: I/Without ViewHolder: Kenya(17023): 12ms
+10-31 13:41:33.450: I/Without ViewHolder: Kiribati(17023): 8ms
+10-31 13:41:33.470: I/Without ViewHolder: Kuwait(17023): 17ms
+10-31 13:41:33.480: I/Without ViewHolder: Kyrgyzstan(17023): 10ms
+10-31 13:41:33.490: I/Without ViewHolder: Laos(17023): 6ms
+10-31 13:41:33.500: I/Without ViewHolder: Latvia(17023): 10ms
+10-31 13:41:33.510: I/Without ViewHolder: Lebanon(17023): 6ms
+10-31 13:41:33.520: I/Without ViewHolder: Lesotho(17023): 7ms
+10-31 13:41:33.530: I/Without ViewHolder: Liberia(17023): 8ms
+10-31 13:41:33.650: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 29K, 53% free 3206K/6727K, external 1038K/1058K, paused 73ms
+10-31 13:41:33.750: I/Without ViewHolder: Libya(17023): 17ms
+10-31 13:41:33.770: I/Without ViewHolder: Liechtenstein(17023): 12ms
+10-31 13:41:33.780: I/Without ViewHolder: Lithuania(17023): 6ms
+10-31 13:41:33.790: I/Without ViewHolder: Luxembourg(17023): 9ms
+10-31 13:41:33.800: I/Without ViewHolder: Macau(17023): 8ms
+10-31 13:41:33.810: I/Without ViewHolder: Madagascar(17023): 11ms
+10-31 13:41:33.820: I/Without ViewHolder: Malawi(17023): 9ms
+10-31 13:41:33.910: I/Without ViewHolder: Malaysia(17023): 18ms
+10-31 13:41:33.920: I/Without ViewHolder: Maldives(17023): 7ms
+10-31 13:41:33.940: I/Without ViewHolder: Mali(17023): 21ms
+10-31 13:41:33.950: I/Without ViewHolder: Malta(17023): 12ms
+10-31 13:41:34.060: I/Without ViewHolder: Marshall Islands(17023): 15ms
+10-31 13:41:34.080: I/Without ViewHolder: Martinique(17023): 7ms
+10-31 13:41:34.110: I/Without ViewHolder: Mauritania(17023): 21ms
+10-31 13:41:34.110: D/dalvikvm(17023): GC_CONCURRENT freed 12K, 52% free 3258K/6727K, external 1066K/1090K, paused 7ms+6ms
+10-31 13:41:34.130: I/Without ViewHolder: Mauritius(17023): 9ms
+10-31 13:41:34.140: I/Without ViewHolder: Mayotte(17023): 6ms
+10-31 13:41:34.150: I/Without ViewHolder: Mexico(17023): 9ms
+10-31 13:41:34.160: I/Without ViewHolder: Micronesia(17023): 9ms
+10-31 13:41:34.170: I/Without ViewHolder: Moldova(17023): 8ms
+10-31 13:41:34.180: I/Without ViewHolder: Monaco(17023): 8ms
+10-31 13:41:34.260: I/Without ViewHolder: Mongolia(17023): 17ms
+10-31 13:41:34.270: I/Without ViewHolder: Montserrat(17023): 7ms
+10-31 13:41:34.290: I/Without ViewHolder: Morocco(17023): 16ms
+10-31 13:41:34.300: I/Without ViewHolder: Mozambique(17023): 6ms
+10-31 13:41:34.310: I/Without ViewHolder: Myanmar(17023): 8ms
+10-31 13:41:34.320: I/Without ViewHolder: Namibia(17023): 8ms
+10-31 13:41:34.340: I/Without ViewHolder: Nauru(17023): 10ms
+10-31 13:41:34.350: I/Without ViewHolder: Nepal(17023): 7ms
+10-31 13:41:34.360: I/Without ViewHolder: Netherlands(17023): 7ms
+10-31 13:41:34.490: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 15K, 51% free 3310K/6727K, external 1066K/1090K, paused 78ms
+10-31 13:41:34.540: I/Without ViewHolder: Netherlands Antilles(17023): 16ms
+10-31 13:41:34.550: I/Without ViewHolder: New Caledonia(17023): 10ms
+10-31 13:41:34.560: I/Without ViewHolder: New Zealand(17023): 10ms
+10-31 13:41:34.610: I/Without ViewHolder: Nicaragua(17023): 25ms
+10-31 13:41:34.620: I/Without ViewHolder: Niger(17023): 6ms
+10-31 13:41:34.640: I/Without ViewHolder: Nigeria(17023): 8ms
+10-31 13:41:34.640: I/Without ViewHolder: Niue(17023): 7ms
+10-31 13:41:34.650: I/Without ViewHolder: Norfolk Island(17023): 7ms
+10-31 13:41:34.670: I/Without ViewHolder: North Korea(17023): 8ms
+10-31 13:41:34.690: I/Without ViewHolder: Northern Marianas(17023): 21ms
+10-31 13:41:34.710: I/Without ViewHolder: Norway(17023): 16ms
+10-31 13:41:34.800: I/Without ViewHolder: Oman(17023): 16ms
+10-31 13:41:34.800: I/Without ViewHolder: Pakistan(17023): 6ms
+10-31 13:41:34.810: I/Without ViewHolder: Palau(17023): 7ms
+10-31 13:41:34.820: I/Without ViewHolder: Panama(17023): 7ms
+10-31 13:41:34.930: I/Without ViewHolder: Papua New Guinea(17023): 15ms
+10-31 13:41:34.930: I/Without ViewHolder: Paraguay(17023): 6ms
+10-31 13:41:34.950: I/Without ViewHolder: Peru(17023): 9ms
+10-31 13:41:35.000: I/Without ViewHolder: Philippines(17023): 15ms
+10-31 13:41:35.010: I/Without ViewHolder: Pitcairn Islands(17023): 6ms
+10-31 13:41:35.020: I/Without ViewHolder: Poland(17023): 8ms
+10-31 13:41:35.030: I/Without ViewHolder: Portugal(17023): 8ms
+10-31 13:41:35.040: I/Without ViewHolder: Puerto Rico(17023): 8ms
+10-31 13:41:35.050: I/Without ViewHolder: Qatar(17023): 7ms
+10-31 13:41:35.060: I/Without ViewHolder: Reunion(17023): 8ms
+10-31 13:41:35.180: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 22K, 50% free 3398K/6727K, external 1066K/1090K, paused 101ms
+10-31 13:41:35.250: I/Without ViewHolder: Romania(17023): 18ms
+10-31 13:41:35.260: I/Without ViewHolder: Russia(17023): 6ms
+10-31 13:41:35.270: I/Without ViewHolder: Rwanda(17023): 10ms
+10-31 13:41:35.280: I/Without ViewHolder: Sqo Tome and Principe(17023): 8ms
+10-31 13:41:35.290: I/Without ViewHolder: Saint Helena(17023): 8ms
+10-31 13:41:35.300: I/Without ViewHolder: Saint Kitts and Nevis(17023): 8ms
+10-31 13:41:35.320: I/Without ViewHolder: Saint Lucia(17023): 18ms
+10-31 13:41:35.330: I/Without ViewHolder: Saint Pierre and Miquelon(17023): 6ms
+10-31 13:41:35.340: I/Without ViewHolder: Saint Vincent and the Grenadines(17023): 8ms
+10-31 13:41:35.420: I/Without ViewHolder: Samoa(17023): 15ms
+10-31 13:41:35.430: I/Without ViewHolder: San Marino(17023): 6ms
+10-31 13:41:35.440: I/Without ViewHolder: Saudi Arabia(17023): 10ms
+10-31 13:41:35.460: I/Without ViewHolder: Senegal(17023): 11ms
+10-31 13:41:35.460: I/Without ViewHolder: Seychelles(17023): 5ms
+10-31 13:41:35.470: I/Without ViewHolder: Sierra Leone(17023): 8ms
+10-31 13:41:35.490: I/Without ViewHolder: Singapore(17023): 9ms
+10-31 13:41:35.500: I/Without ViewHolder: Slovakia(17023): 8ms
+10-31 13:41:35.510: I/Without ViewHolder: Slovenia(17023): 11ms
+10-31 13:41:35.620: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 17K, 49% free 3463K/6727K, external 1070K/1090K, paused 78ms
+10-31 13:41:35.680: I/Without ViewHolder: Solomon Islands(17023): 18ms
+10-31 13:41:35.690: I/Without ViewHolder: Somalia(17023): 6ms
+10-31 13:41:35.710: I/Without ViewHolder: South Africa(17023): 16ms
+10-31 13:41:35.730: I/Without ViewHolder: South Georgia and the South Sandwich Islands(17023): 16ms
+10-31 13:41:35.740: I/Without ViewHolder: South Korea(17023): 11ms
+10-31 13:41:35.750: I/Without ViewHolder: Spain(17023): 10ms
+10-31 13:41:35.770: I/Without ViewHolder: Sri Lanka(17023): 13ms
+10-31 13:41:35.780: I/Without ViewHolder: Sudan(17023): 5ms
+10-31 13:41:35.790: I/Without ViewHolder: Suriname(17023): 8ms
+10-31 13:41:35.910: I/Without ViewHolder: Svalbard and Jan Mayen(17023): 8ms
+10-31 13:41:35.960: I/Without ViewHolder: Swaziland(17023): 14ms
+10-31 13:41:36.010: I/Without ViewHolder: Sweden(17023): 14ms
+10-31 13:41:36.120: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 12K, 48% free 3506K/6727K, external 1070K/1090K, paused 86ms
+10-31 13:41:36.150: I/Without ViewHolder: Switzerland(17023): 20ms
+10-31 13:41:36.160: I/Without ViewHolder: Syria(17023): 7ms
+10-31 13:41:36.170: I/Without ViewHolder: Taiwan(17023): 9ms
+10-31 13:41:36.180: I/Without ViewHolder: Tajikistan(17023): 8ms
+10-31 13:41:36.250: I/Without ViewHolder: Tanzania(17023): 16ms
+10-31 13:41:36.260: I/Without ViewHolder: Thailand(17023): 7ms
+10-31 13:41:36.310: I/Without ViewHolder: The Bahamas(17023): 14ms
+10-31 13:41:36.370: I/Without ViewHolder: The Gambia(17023): 14ms
+10-31 13:41:36.410: I/Without ViewHolder: Togo(17023): 13ms
+10-31 13:41:36.460: I/Without ViewHolder: Tokelau(17023): 15ms
+10-31 13:41:36.510: I/Without ViewHolder: Tonga(17023): 13ms
+10-31 13:41:36.600: I/Without ViewHolder: Trinidad and Tobago(17023): 15ms
+10-31 13:41:36.650: I/Without ViewHolder: Tunisia(17023): 7ms
+10-31 13:41:36.730: I/Without ViewHolder: Turkey(17023): 8ms
+10-31 13:41:36.840: I/Without ViewHolder: Turkmenistan(17023): 14ms
+10-31 13:41:36.960: I/Without ViewHolder: Turks and Caicos Islands(17023): 13ms
+10-31 13:41:37.010: I/Without ViewHolder: Tuvalu(17023): 14ms
+10-31 13:41:37.020: I/Without ViewHolder: Virgin Islands(17023): 8ms
+10-31 13:41:37.130: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 17K, 47% free 3571K/6727K, external 1070K/1093K, paused 80ms
+10-31 13:41:37.220: I/Without ViewHolder: Uganda(17023): 16ms
+10-31 13:41:37.270: I/Without ViewHolder: Ukraine(17023): 14ms
+10-31 13:41:37.280: I/Without ViewHolder: United Arab Emirates(17023): 6ms
+10-31 13:41:37.330: I/Without ViewHolder: United Kingdom(17023): 8ms
+10-31 13:41:37.390: I/Without ViewHolder: United States(17023): 8ms
+10-31 13:41:37.390: I/Without ViewHolder: United States Minor Outlying Islands(17023): 6ms
+10-31 13:41:37.450: I/Without ViewHolder: Uruguay(17023): 15ms
+10-31 13:41:37.500: I/Without ViewHolder: Uzbekistan(17023): 16ms
+10-31 13:41:37.540: I/Without ViewHolder: Vanuatu(17023): 15ms
+10-31 13:41:37.560: I/Without ViewHolder: Vatican City(17023): 14ms
+10-31 13:41:37.610: I/Without ViewHolder: Venezuela(17023): 13ms
+10-31 13:41:37.660: I/Without ViewHolder: Vietnam(17023): 14ms
+10-31 13:41:37.710: I/Without ViewHolder: Wallis and Futuna(17023): 14ms
+10-31 13:41:37.820: D/dalvikvm(17023): GC_EXTERNAL_ALLOC freed 14K, 47% free 3617K/6727K, external 1073K/1093K, paused 87ms
+10-31 13:41:37.850: I/Without ViewHolder: Western Sahara(17023): 10ms
+10-31 13:41:37.860: I/Without ViewHolder: Yemen(17023): 7ms
+10-31 13:41:37.930: I/Without ViewHolder: Yugoslavia(17023): 13ms
+10-31 13:41:37.940: I/Without ViewHolder: Zambia(17023): 9ms
+10-31 13:41:38.000: I/Without ViewHolder: Zimbabwe(17023): 15ms

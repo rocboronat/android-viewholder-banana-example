@@ -1,0 +1,243 @@
+10-31 13:40:59.850: W/IInputConnectionWrapper(17023): showStatusIcon on inactive InputConnection
+10-31 13:41:02.930: I/With uncached ViewHolder: Afghanistan(17023): 73ms
+10-31 13:41:03.410: I/With uncached ViewHolder: Albania(17023): 26ms
+10-31 13:41:03.440: I/With uncached ViewHolder: Algeria(17023): 20ms
+10-31 13:41:03.460: I/With uncached ViewHolder: American Samoa(17023): 20ms
+10-31 13:41:03.490: I/With uncached ViewHolder: Andorra(17023): 15ms
+10-31 13:41:03.520: I/With uncached ViewHolder: Angola(17023): 20ms
+10-31 13:41:03.540: I/With uncached ViewHolder: Anguilla(17023): 19ms
+10-31 13:41:03.580: I/With uncached ViewHolder: Antarctica(17023): 22ms
+10-31 13:41:03.600: I/With uncached ViewHolder: Antigua and Barbuda(17023): 21ms
+10-31 13:41:03.650: I/With uncached ViewHolder: Argentina(17023): 42ms
+10-31 13:41:04.970: I/With uncached ViewHolder: Armenia(17023): 11ms
+10-31 13:41:05.070: I/With uncached ViewHolder: Aruba(17023): 2ms
+10-31 13:41:05.080: I/With uncached ViewHolder: Australia(17023): 2ms
+10-31 13:41:05.080: I/With uncached ViewHolder: Austria(17023): 1ms
+10-31 13:41:05.090: I/With uncached ViewHolder: Azerbaijan(17023): 2ms
+10-31 13:41:05.150: I/With uncached ViewHolder: Bahrain(17023): 12ms
+10-31 13:41:05.150: I/With uncached ViewHolder: Bangladesh(17023): 1ms
+10-31 13:41:05.150: I/With uncached ViewHolder: Barbados(17023): 1ms
+10-31 13:41:05.200: I/With uncached ViewHolder: Belarus(17023): 2ms
+10-31 13:41:05.210: I/With uncached ViewHolder: Belgium(17023): 3ms
+10-31 13:41:05.210: I/With uncached ViewHolder: Belize(17023): 2ms
+10-31 13:41:05.270: I/With uncached ViewHolder: Benin(17023): 9ms
+10-31 13:41:05.280: I/With uncached ViewHolder: Bermuda(17023): 3ms
+10-31 13:41:05.280: I/With uncached ViewHolder: Bhutan(17023): 1ms
+10-31 13:41:05.280: I/With uncached ViewHolder: Bolivia(17023): 4ms
+10-31 13:41:05.340: I/With uncached ViewHolder: Bosnia and Herzegovina(17023): 10ms
+10-31 13:41:05.340: I/With uncached ViewHolder: Botswana(17023): 4ms
+10-31 13:41:05.350: I/With uncached ViewHolder: Bouvet Island(17023): 1ms
+10-31 13:41:05.350: I/With uncached ViewHolder: Brazil(17023): 3ms
+10-31 13:41:05.400: I/With uncached ViewHolder: British Indian Ocean Territory(17023): 2ms
+10-31 13:41:05.420: I/With uncached ViewHolder: British Virgin Islands(17023): 1ms
+10-31 13:41:05.420: I/With uncached ViewHolder: Brunei(17023): 2ms
+10-31 13:41:05.420: I/With uncached ViewHolder: Bulgaria(17023): 1ms
+10-31 13:41:05.480: I/With uncached ViewHolder: Burkina Faso(17023): 2ms
+10-31 13:41:05.490: I/With uncached ViewHolder: Burundi(17023): 2ms
+10-31 13:41:05.500: I/With uncached ViewHolder: Cote d'Ivoire(17023): 2ms
+10-31 13:41:05.500: I/With uncached ViewHolder: Cambodia(17023): 5ms
+10-31 13:41:05.550: I/With uncached ViewHolder: Cameroon(17023): 2ms
+10-31 13:41:05.570: I/With uncached ViewHolder: Canada(17023): 4ms
+10-31 13:41:05.570: I/With uncached ViewHolder: Cape Verde(17023): 3ms
+10-31 13:41:05.580: I/With uncached ViewHolder: Cayman Islands(17023): 2ms
+10-31 13:41:05.630: I/With uncached ViewHolder: Central African Republic(17023): 9ms
+10-31 13:41:05.640: I/With uncached ViewHolder: Chad(17023): 2ms
+10-31 13:41:05.640: I/With uncached ViewHolder: Chile(17023): 1ms
+10-31 13:41:05.640: I/With uncached ViewHolder: China(17023): 1ms
+10-31 13:41:05.700: I/With uncached ViewHolder: Christmas Island(17023): 2ms
+10-31 13:41:05.710: I/With uncached ViewHolder: Cocos (Keeling) Islands(17023): 3ms
+10-31 13:41:05.720: I/With uncached ViewHolder: Colombia(17023): 1ms
+10-31 13:41:05.720: I/With uncached ViewHolder: Comoros(17023): 2ms
+10-31 13:41:05.800: I/With uncached ViewHolder: Congo(17023): 1ms
+10-31 13:41:05.820: I/With uncached ViewHolder: Cook Islands(17023): 6ms
+10-31 13:41:05.820: I/With uncached ViewHolder: Costa Rica(17023): 3ms
+10-31 13:41:05.840: I/With uncached ViewHolder: Croatia(17023): 7ms
+10-31 13:41:05.840: I/With uncached ViewHolder: Cuba(17023): 2ms
+10-31 13:41:05.920: I/With uncached ViewHolder: Cyprus(17023): 11ms
+10-31 13:41:05.930: I/With uncached ViewHolder: Czech Republic(17023): 2ms
+10-31 13:41:05.940: I/With uncached ViewHolder: Democratic Republic of the Congo(17023): 10ms
+10-31 13:41:05.940: I/With uncached ViewHolder: Denmark(17023): 3ms
+10-31 13:41:05.950: I/With uncached ViewHolder: Djibouti(17023): 1ms
+10-31 13:41:05.960: I/With uncached ViewHolder: Dominica(17023): 2ms
+10-31 13:41:06.010: I/With uncached ViewHolder: Dominican Republic(17023): 2ms
+10-31 13:41:06.030: I/With uncached ViewHolder: East Timor(17023): 4ms
+10-31 13:41:06.030: I/With uncached ViewHolder: Ecuador(17023): 2ms
+10-31 13:41:06.040: I/With uncached ViewHolder: Egypt(17023): 2ms
+10-31 13:41:06.040: I/With uncached ViewHolder: El Salvador(17023): 2ms
+10-31 13:41:06.140: I/With uncached ViewHolder: Equatorial Guinea(17023): 2ms
+10-31 13:41:06.150: I/With uncached ViewHolder: Eritrea(17023): 3ms
+10-31 13:41:06.160: I/With uncached ViewHolder: Estonia(17023): 3ms
+10-31 13:41:06.200: I/With uncached ViewHolder: Ethiopia(17023): 2ms
+10-31 13:41:06.220: I/With uncached ViewHolder: Faeroe Islands(17023): 4ms
+10-31 13:41:06.220: I/With uncached ViewHolder: Falkland Islands(17023): 2ms
+10-31 13:41:06.220: I/With uncached ViewHolder: Fiji(17023): 2ms
+10-31 13:41:06.230: I/With uncached ViewHolder: Finland(17023): 2ms
+10-31 13:41:06.230: I/With uncached ViewHolder: Former Yugoslav Republic of Macedonia(17023): 4ms
+10-31 13:41:06.300: I/With uncached ViewHolder: France(17023): 2ms
+10-31 13:41:06.310: I/With uncached ViewHolder: French Guiana(17023): 2ms
+10-31 13:41:06.320: I/With uncached ViewHolder: French Polynesia(17023): 2ms
+10-31 13:41:06.320: I/With uncached ViewHolder: French Southern Territories(17023): 1ms
+10-31 13:41:06.320: I/With uncached ViewHolder: Gabon(17023): 1ms
+10-31 13:41:06.330: I/With uncached ViewHolder: Georgia(17023): 2ms
+10-31 13:41:06.340: I/With uncached ViewHolder: Germany(17023): 2ms
+10-31 13:41:06.340: I/With uncached ViewHolder: Ghana(17023): 5ms
+10-31 13:41:06.400: I/With uncached ViewHolder: Gibraltar(17023): 2ms
+10-31 13:41:06.420: I/With uncached ViewHolder: Greece(17023): 4ms
+10-31 13:41:06.420: I/With uncached ViewHolder: Greenland(17023): 2ms
+10-31 13:41:06.430: I/With uncached ViewHolder: Grenada(17023): 2ms
+10-31 13:41:06.430: I/With uncached ViewHolder: Guadeloupe(17023): 1ms
+10-31 13:41:06.440: I/With uncached ViewHolder: Guam(17023): 2ms
+10-31 13:41:06.440: I/With uncached ViewHolder: Guatemala(17023): 1ms
+10-31 13:41:06.450: I/With uncached ViewHolder: Guinea(17023): 4ms
+10-31 13:41:06.520: I/With uncached ViewHolder: Guinea-Bissau(17023): 1ms
+10-31 13:41:06.530: I/With uncached ViewHolder: Guyana(17023): 2ms
+10-31 13:41:06.540: I/With uncached ViewHolder: Haiti(17023): 2ms
+10-31 13:41:06.540: I/With uncached ViewHolder: Heard Island and McDonald Islands(17023): 2ms
+10-31 13:41:06.540: I/With uncached ViewHolder: Honduras(17023): 1ms
+10-31 13:41:06.550: I/With uncached ViewHolder: Hong Kong(17023): 1ms
+10-31 13:41:06.550: I/With uncached ViewHolder: Hungary(17023): 4ms
+10-31 13:41:06.560: I/With uncached ViewHolder: Iceland(17023): 2ms
+10-31 13:41:06.560: I/With uncached ViewHolder: India(17023): 4ms
+10-31 13:41:06.630: I/With uncached ViewHolder: Indonesia(17023): 1ms
+10-31 13:41:06.640: I/With uncached ViewHolder: Iran(17023): 4ms
+10-31 13:41:06.650: I/With uncached ViewHolder: Iraq(17023): 3ms
+10-31 13:41:06.650: I/With uncached ViewHolder: Ireland(17023): 1ms
+10-31 13:41:06.660: I/With uncached ViewHolder: Israel(17023): 2ms
+10-31 13:41:06.660: I/With uncached ViewHolder: Italy(17023): 3ms
+10-31 13:41:06.670: I/With uncached ViewHolder: Jamaica(17023): 4ms
+10-31 13:41:06.670: I/With uncached ViewHolder: Japan(17023): 4ms
+10-31 13:41:06.750: I/With uncached ViewHolder: Jordan(17023): 2ms
+10-31 13:41:06.750: I/With uncached ViewHolder: Kazakhstan(17023): 3ms
+10-31 13:41:06.750: I/With uncached ViewHolder: Kenya(17023): 2ms
+10-31 13:41:06.760: I/With uncached ViewHolder: Kiribati(17023): 1ms
+10-31 13:41:06.760: I/With uncached ViewHolder: Kuwait(17023): 2ms
+10-31 13:41:06.770: I/With uncached ViewHolder: Kyrgyzstan(17023): 2ms
+10-31 13:41:06.770: I/With uncached ViewHolder: Laos(17023): 2ms
+10-31 13:41:06.780: I/With uncached ViewHolder: Latvia(17023): 1ms
+10-31 13:41:06.850: I/With uncached ViewHolder: Lebanon(17023): 9ms
+10-31 13:41:06.850: I/With uncached ViewHolder: Lesotho(17023): 3ms
+10-31 13:41:06.850: I/With uncached ViewHolder: Liberia(17023): 2ms
+10-31 13:41:06.860: I/With uncached ViewHolder: Libya(17023): 2ms
+10-31 13:41:06.860: I/With uncached ViewHolder: Liechtenstein(17023): 1ms
+10-31 13:41:06.870: I/With uncached ViewHolder: Lithuania(17023): 2ms
+10-31 13:41:06.870: I/With uncached ViewHolder: Luxembourg(17023): 1ms
+10-31 13:41:06.880: I/With uncached ViewHolder: Macau(17023): 3ms
+10-31 13:41:06.950: I/With uncached ViewHolder: Madagascar(17023): 2ms
+10-31 13:41:06.960: I/With uncached ViewHolder: Malawi(17023): 4ms
+10-31 13:41:06.960: I/With uncached ViewHolder: Malaysia(17023): 1ms
+10-31 13:41:06.970: I/With uncached ViewHolder: Maldives(17023): 1ms
+10-31 13:41:06.970: I/With uncached ViewHolder: Mali(17023): 3ms
+10-31 13:41:06.980: I/With uncached ViewHolder: Malta(17023): 4ms
+10-31 13:41:06.980: I/With uncached ViewHolder: Marshall Islands(17023): 3ms
+10-31 13:41:07.050: I/With uncached ViewHolder: Martinique(17023): 1ms
+10-31 13:41:07.050: I/With uncached ViewHolder: Mauritania(17023): 1ms
+10-31 13:41:07.060: I/With uncached ViewHolder: Mauritius(17023): 4ms
+10-31 13:41:07.060: I/With uncached ViewHolder: Mayotte(17023): 4ms
+10-31 13:41:07.070: I/With uncached ViewHolder: Mexico(17023): 4ms
+10-31 13:41:07.070: I/With uncached ViewHolder: Micronesia(17023): 2ms
+10-31 13:41:07.160: I/With uncached ViewHolder: Moldova(17023): 10ms
+10-31 13:41:07.170: I/With uncached ViewHolder: Monaco(17023): 4ms
+10-31 13:41:07.180: I/With uncached ViewHolder: Mongolia(17023): 15ms
+10-31 13:41:07.190: I/With uncached ViewHolder: Montserrat(17023): 5ms
+10-31 13:41:07.190: I/With uncached ViewHolder: Morocco(17023): 1ms
+10-31 13:41:07.200: I/With uncached ViewHolder: Mozambique(17023): 2ms
+10-31 13:41:07.200: I/With uncached ViewHolder: Myanmar(17023): 1ms
+10-31 13:41:07.210: I/With uncached ViewHolder: Namibia(17023): 2ms
+10-31 13:41:07.280: I/With uncached ViewHolder: Nauru(17023): 1ms
+10-31 13:41:07.290: I/With uncached ViewHolder: Nepal(17023): 1ms
+10-31 13:41:07.300: I/With uncached ViewHolder: Netherlands(17023): 1ms
+10-31 13:41:07.310: I/With uncached ViewHolder: Netherlands Antilles(17023): 11ms
+10-31 13:41:07.390: I/With uncached ViewHolder: New Caledonia(17023): 1ms
+10-31 13:41:07.410: I/With uncached ViewHolder: New Zealand(17023): 3ms
+10-31 13:41:07.410: I/With uncached ViewHolder: Nicaragua(17023): 1ms
+10-31 13:41:07.450: I/With uncached ViewHolder: Niger(17023): 1ms
+10-31 13:41:07.470: I/With uncached ViewHolder: Nigeria(17023): 2ms
+10-31 13:41:07.470: I/With uncached ViewHolder: Niue(17023): 2ms
+10-31 13:41:07.470: I/With uncached ViewHolder: Norfolk Island(17023): 1ms
+10-31 13:41:07.530: I/With uncached ViewHolder: North Korea(17023): 2ms
+10-31 13:41:07.540: I/With uncached ViewHolder: Northern Marianas(17023): 3ms
+10-31 13:41:07.550: I/With uncached ViewHolder: Norway(17023): 3ms
+10-31 13:41:07.550: I/With uncached ViewHolder: Oman(17023): 1ms
+10-31 13:41:07.560: I/With uncached ViewHolder: Pakistan(17023): 3ms
+10-31 13:41:07.610: I/With uncached ViewHolder: Palau(17023): 1ms
+10-31 13:41:07.620: I/With uncached ViewHolder: Panama(17023): 3ms
+10-31 13:41:07.620: I/With uncached ViewHolder: Papua New Guinea(17023): 2ms
+10-31 13:41:07.630: I/With uncached ViewHolder: Paraguay(17023): 2ms
+10-31 13:41:07.630: I/With uncached ViewHolder: Peru(17023): 2ms
+10-31 13:41:07.680: I/With uncached ViewHolder: Philippines(17023): 2ms
+10-31 13:41:07.700: I/With uncached ViewHolder: Pitcairn Islands(17023): 4ms
+10-31 13:41:07.700: I/With uncached ViewHolder: Poland(17023): 1ms
+10-31 13:41:07.710: I/With uncached ViewHolder: Portugal(17023): 3ms
+10-31 13:41:07.710: I/With uncached ViewHolder: Puerto Rico(17023): 6ms
+10-31 13:41:07.770: I/With uncached ViewHolder: Qatar(17023): 2ms
+10-31 13:41:07.780: I/With uncached ViewHolder: Reunion(17023): 1ms
+10-31 13:41:07.790: I/With uncached ViewHolder: Romania(17023): 2ms
+10-31 13:41:07.790: I/With uncached ViewHolder: Russia(17023): 1ms
+10-31 13:41:07.800: I/With uncached ViewHolder: Rwanda(17023): 2ms
+10-31 13:41:07.850: I/With uncached ViewHolder: Sqo Tome and Principe(17023): 2ms
+10-31 13:41:07.860: I/With uncached ViewHolder: Saint Helena(17023): 4ms
+10-31 13:41:07.860: I/With uncached ViewHolder: Saint Kitts and Nevis(17023): 2ms
+10-31 13:41:07.870: I/With uncached ViewHolder: Saint Lucia(17023): 1ms
+10-31 13:41:07.910: I/With uncached ViewHolder: Saint Pierre and Miquelon(17023): 1ms
+10-31 13:41:07.930: I/With uncached ViewHolder: Saint Vincent and the Grenadines(17023): 2ms
+10-31 13:41:07.940: I/With uncached ViewHolder: Samoa(17023): 2ms
+10-31 13:41:07.940: I/With uncached ViewHolder: San Marino(17023): 1ms
+10-31 13:41:07.990: I/With uncached ViewHolder: Saudi Arabia(17023): 2ms
+10-31 13:41:08.000: I/With uncached ViewHolder: Senegal(17023): 4ms
+10-31 13:41:08.010: I/With uncached ViewHolder: Seychelles(17023): 2ms
+10-31 13:41:08.010: I/With uncached ViewHolder: Sierra Leone(17023): 5ms
+10-31 13:41:08.010: I/With uncached ViewHolder: Singapore(17023): 1ms
+10-31 13:41:08.060: I/With uncached ViewHolder: Slovakia(17023): 1ms
+10-31 13:41:08.080: I/With uncached ViewHolder: Slovenia(17023): 3ms
+10-31 13:41:08.080: I/With uncached ViewHolder: Solomon Islands(17023): 2ms
+10-31 13:41:08.090: I/With uncached ViewHolder: Somalia(17023): 1ms
+10-31 13:41:08.140: I/With uncached ViewHolder: South Africa(17023): 1ms
+10-31 13:41:08.160: I/With uncached ViewHolder: South Georgia and the South Sandwich Islands(17023): 4ms
+10-31 13:41:08.160: I/With uncached ViewHolder: South Korea(17023): 2ms
+10-31 13:41:08.170: I/With uncached ViewHolder: Spain(17023): 2ms
+10-31 13:41:08.210: I/With uncached ViewHolder: Sri Lanka(17023): 1ms
+10-31 13:41:08.230: I/With uncached ViewHolder: Sudan(17023): 3ms
+10-31 13:41:08.230: I/With uncached ViewHolder: Suriname(17023): 2ms
+10-31 13:41:08.230: I/With uncached ViewHolder: Svalbard and Jan Mayen(17023): 1ms
+10-31 13:41:08.280: I/With uncached ViewHolder: Swaziland(17023): 1ms
+10-31 13:41:08.300: I/With uncached ViewHolder: Sweden(17023): 4ms
+10-31 13:41:08.300: I/With uncached ViewHolder: Switzerland(17023): 2ms
+10-31 13:41:08.350: I/With uncached ViewHolder: Syria(17023): 2ms
+10-31 13:41:08.370: I/With uncached ViewHolder: Taiwan(17023): 3ms
+10-31 13:41:08.370: I/With uncached ViewHolder: Tajikistan(17023): 2ms
+10-31 13:41:08.370: I/With uncached ViewHolder: Tanzania(17023): 2ms
+10-31 13:41:08.420: I/With uncached ViewHolder: Thailand(17023): 1ms
+10-31 13:41:08.430: I/With uncached ViewHolder: The Bahamas(17023): 2ms
+10-31 13:41:08.440: I/With uncached ViewHolder: The Gambia(17023): 2ms
+10-31 13:41:08.480: I/With uncached ViewHolder: Togo(17023): 1ms
+10-31 13:41:08.490: I/With uncached ViewHolder: Tokelau(17023): 4ms
+10-31 13:41:08.500: I/With uncached ViewHolder: Tonga(17023): 3ms
+10-31 13:41:08.550: I/With uncached ViewHolder: Trinidad and Tobago(17023): 3ms
+10-31 13:41:08.560: I/With uncached ViewHolder: Tunisia(17023): 9ms
+10-31 13:41:08.560: I/With uncached ViewHolder: Turkey(17023): 4ms
+10-31 13:41:08.610: I/With uncached ViewHolder: Turkmenistan(17023): 2ms
+10-31 13:41:08.620: I/With uncached ViewHolder: Turks and Caicos Islands(17023): 1ms
+10-31 13:41:08.660: I/With uncached ViewHolder: Tuvalu(17023): 1ms
+10-31 13:41:08.670: I/With uncached ViewHolder: Virgin Islands(17023): 4ms
+10-31 13:41:08.680: I/With uncached ViewHolder: Uganda(17023): 4ms
+10-31 13:41:08.730: I/With uncached ViewHolder: Ukraine(17023): 9ms
+10-31 13:41:08.730: I/With uncached ViewHolder: United Arab Emirates(17023): 3ms
+10-31 13:41:08.780: I/With uncached ViewHolder: United Kingdom(17023): 2ms
+10-31 13:41:08.790: I/With uncached ViewHolder: United States(17023): 4ms
+10-31 13:41:08.830: I/With uncached ViewHolder: United States Minor Outlying Islands(17023): 40ms
+10-31 13:41:08.910: I/With uncached ViewHolder: Uruguay(17023): 1ms
+10-31 13:41:08.930: I/With uncached ViewHolder: Uzbekistan(17023): 1ms
+10-31 13:41:08.940: I/With uncached ViewHolder: Vanuatu(17023): 1ms
+10-31 13:41:08.950: I/With uncached ViewHolder: Vatican City(17023): 2ms
+10-31 13:41:08.990: I/With uncached ViewHolder: Venezuela(17023): 2ms
+10-31 13:41:09.010: D/dalvikvm(17023): GC_CONCURRENT freed 591K, 58% free 2865K/6727K, external 376K/540K, paused 20ms+7ms
+10-31 13:41:09.100: I/With uncached ViewHolder: Vietnam(17023): 11ms
+10-31 13:41:09.110: I/With uncached ViewHolder: Wallis and Futuna(17023): 4ms
+10-31 13:41:09.110: I/With uncached ViewHolder: Western Sahara(17023): 3ms
+10-31 13:41:09.120: I/With uncached ViewHolder: Yemen(17023): 4ms
+10-31 13:41:09.120: I/With uncached ViewHolder: Yugoslavia(17023): 4ms
+10-31 13:41:09.130: I/With uncached ViewHolder: Zambia(17023): 4ms
+10-31 13:41:09.190: I/With uncached ViewHolder: Zimbabwe(17023): 2ms
+10-31 13:41:09.210: I/With uncached ViewHolder: Venezuela(17023): 3ms
+10-31 13:41:09.210: I/With uncached ViewHolder: Vatican City(17023): 1ms
+10-31 13:41:09.210: I/With uncached ViewHolder: Vanuatu(17023): 3ms
