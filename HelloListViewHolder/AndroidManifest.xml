@@ -10,11 +10,18 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:label="@string/app_name"
+            android:label="Without ViewHolder"
             android:name=".HelloListViewActivity" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />
-
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="With ViewHolder"
+            android:name=".HelloListViewHolderActivity" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>

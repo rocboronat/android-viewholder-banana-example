@@ -1,9 +1,9 @@
 package net.rocboronat.android.examples.viewholder;
 
+import android.app.Activity;
 import android.app.ListActivity;
 import android.content.Context;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -16,12 +16,12 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class HelloListViewActivity extends ListActivity {
+public class HelloListViewHolderActivity extends ListActivity {
 	/** Called when the activity is first created. */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setTitle("Without ViewHolder");
+		setTitle("With ViewHolder");
 		setListAdapter(new SimpleArrayAdapter(this));
 
 		ListView lv = getListView();
@@ -48,24 +48,38 @@ public class HelloListViewActivity extends ListActivity {
 		
 	    public View getView(int pos, View convertView, ViewGroup parent){
 	        LayoutInflater mInflater = LayoutInflater.from(context);
-            convertView = mInflater.inflate(R.layout.list_item, null);
+	        ViewHolder holder = null;
+	    	if (convertView == null || !(convertView.getTag() instanceof ViewHolder)) {
+                convertView = mInflater.inflate(R.layout.list_item, null);
+                // Creates a ViewHolder and store references to the two children views we want to bind data to.
+                holder = new ViewHolder();
+                holder.estat = (ImageView) convertView.findViewById(R.id.estat);
+                holder.direccio = (TextView) convertView.findViewById(R.id.direccio);
+                holder.preferit = (View) convertView.findViewById(R.id.preferit);
+                holder.color = (View) convertView.findViewById(R.id.color);
+                convertView.setTag(holder);
+            } else {
+                // Get the ViewHolder back to get fast access to the TextView
+                // and the ImageView.
+                holder = (ViewHolder) convertView.getTag();
+            }
             
             String country = ExampleData.COUNTRIES[pos];
 	    	
-            TextView direccio = (TextView)convertView.findViewById(R.id.direccio);
-            direccio.setText(country);
-            
-            View color = convertView.findViewById(R.id.color);
-            color.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.gradientgreen));
-	    	
-            ImageView estat = (ImageView) convertView.findViewById(R.id.estat);
-            estat.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.stats_d));
-            
-            View preferit = (View) convertView.findViewById(R.id.preferit);
-            preferit.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.softstarclear));
+            holder.direccio.setText(country);
+            holder.color.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.gradientgreen));
+            holder.estat.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.stats_d));
+            holder.preferit.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.softstarclear));
             
 	    	return convertView;
 	    }
+	    
+	    private class ViewHolder {
+            View color;
+            View preferit;
+            ImageView estat;
+            TextView direccio;
+        }	
 	}
 	
 	@Override
