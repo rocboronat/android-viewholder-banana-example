@@ -3,6 +3,7 @@ package net.rocboronat.android.examples.viewholder;
 import android.app.Activity;
 import android.app.ListActivity;
 import android.content.Context;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -16,12 +17,12 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class HelloListViewHolderActivity extends ListActivity {
+public class HelloListViewHolderCachedActivity extends ListActivity {
 	/** Called when the activity is first created. */
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setTitle("With ViewHolder");
+		setTitle("With Cached ViewHolder");
 		setListAdapter(new SimpleArrayAdapter(this));
 
 		ListView lv = getListView();
@@ -67,9 +68,20 @@ public class HelloListViewHolderActivity extends ListActivity {
             String country = ExampleData.COUNTRIES[pos];
 	    	
             holder.direccio.setText(country);
-            holder.color.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.gradientgreen));
-            holder.estat.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.stats_d));
-            holder.preferit.setBackgroundDrawable(context.getResources().getDrawable(R.drawable.softstarclear));
+            
+            if (Cache.gradientgreen==null){
+            	Cache.gradientgreen = context.getResources().getDrawable(R.drawable.gradientgreen);
+            }
+            if (Cache.stats_d==null){
+            	Cache.stats_d = context.getResources().getDrawable(R.drawable.stats_d);
+            }
+            if (Cache.softstarclear==null){
+            	Cache.softstarclear = context.getResources().getDrawable(R.drawable.softstarclear);
+            }
+            
+            holder.color.setBackgroundDrawable(Cache.gradientgreen);
+            holder.estat.setBackgroundDrawable(Cache.stats_d);
+            holder.preferit.setBackgroundDrawable(Cache.softstarclear);
             
 	    	return convertView;
 	    }
